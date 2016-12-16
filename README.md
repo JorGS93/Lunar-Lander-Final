@@ -42,6 +42,11 @@ Con las fuciones de javascript también se han podido hacer cambios de imagen (c
 
 ####FUNCIONALIDADES:
 -La nave se mueve verticalmente al clicar o mantener apretada una tecla.
+
 -Explota si aterriza a una velocidad superior a 5 m/s.
+
 -Se "gana" si la nave aterriza a una velocidad inferior a  5m/s.
+
 -El fuel disminuye pero al llegar a 0 se puede seguir jugando.
+
+
